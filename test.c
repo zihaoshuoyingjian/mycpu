@@ -2,7 +2,7 @@
 
 int main()
 {
-	printf("hello world!\n");
+	printf("hello RISC-V!\n");
 	return 0;
 
 
